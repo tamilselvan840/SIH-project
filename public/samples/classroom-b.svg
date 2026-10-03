@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600">
+  <rect width="960" height="600" fill="#d8e3dd"/><rect y="410" width="960" height="190" fill="#8d8173"/>
+  <rect x="75" y="85" width="360" height="190" fill="#f5f5ed" stroke="#74868a" stroke-width="12"/><text x="120" y="180" font-family="sans-serif" font-size="32" fill="#7b8b8b">TRAINING LAB</text>
+  <rect x="500" y="285" width="350" height="35" fill="#654c39"/><path d="M535 320v160m280-160v160" stroke="#454b4d" stroke-width="17"/>
+  <rect x="555" y="205" width="180" height="105" rx="7" fill="#14394c"/><rect x="572" y="222" width="146" height="69" fill="#82bdc8"/>
+  <path d="M130 550V390h170v160M370 550V385h165v165" fill="none" stroke="#2c4a57" stroke-width="24"/>
+  <text x="34" y="48" font-family="sans-serif" font-size="22" fill="#31505b">Bundled Demo Classroom B</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs><linearGradient id="w" x2="0" y2="1"><stop stop-color="#dcebee"/><stop offset="1" stop-color="#a9c5cb"/></linearGradient></defs>
+  <rect width="960" height="600" fill="url(#w)"/><rect y="390" width="960" height="210" fill="#718991"/>
+  <rect x="570" y="55" width="290" height="155" rx="5" fill="#19394a"/><rect x="590" y="75" width="250" height="115" fill="#7dcfc3"/>
+  <rect x="135" y="295" width="320" height="32" rx="4" fill="#6d4f39"/><path d="M160 327v125m270-125v125" stroke="#3d4345" stroke-width="18"/>
+  <rect x="220" y="225" width="180" height="102" rx="6" fill="#173646"/><rect x="235" y="240" width="150" height="72" fill="#9fc9d2"/>
+  <circle cx="670" cy="275" r="45" fill="#8a5c45"/><path d="M600 570V360q70-80 140 0v210" fill="#154f61"/>
+  <path d="M95 520V375h160v145M305 520V380h160v140" fill="none" stroke="#2f4e5b" stroke-width="22"/>
+  <text x="34" y="48" font-family="sans-serif" font-size="22" fill="#31505b">Bundled Demo Classroom A</text>
+</svg>

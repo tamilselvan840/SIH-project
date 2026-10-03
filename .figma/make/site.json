@@ -1,0 +1,10 @@
+{
+  "description": "Monitors training centres using AI to verify attendance and infrastructure compliance, enabling authorities to detect fraud and prioritize inspections effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
